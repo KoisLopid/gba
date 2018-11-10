@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+html, body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    cursor: none;
+}
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+span {
+    font-family: "Roboto";
+    color: #E74C3C;
+    bottom: 0px;
+    position: absolute;
+    right: 0px;
+    display: none;
+    font-size: 35pt;
+    font-weight: bold;
+    text-align: right;
+    vertical-align: bottom;
+    display:none;
+}
