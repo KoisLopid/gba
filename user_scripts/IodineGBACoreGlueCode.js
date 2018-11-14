@@ -47,6 +47,7 @@ var games = {
     "goldensun":"Golden Sun",
     "gunstar_super_heroes":"Gunstar Super Heroes",
     "hamtaro_heartbreak":"Hamtaro - Ham-Ham Heartbreak",
+    "herbie":"Herbie Fully Loaded",
     "kirbymirror":"Kirby & The Amazing Mirror",
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
     "mariokart":"Mario Kart: Super Circuit",
