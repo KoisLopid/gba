@@ -119,6 +119,8 @@ var games = {
     "turok_evolution":"Turok Evolution",
     "warioland4":"Wario Land 4",
     "wario_ware":"Wario Ware Inc",
+    "ygo":"Yu-Gi-Oh!-The Etrnal Duelist Soul",
+    "ygo2":"Yu-Gi-Oh!-Destiny Borad Traveler",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
     "zelda_minish":"The Legend of Zelda: The Minish Cap"
 };
