@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Lato);
 html, body {
     padding: 0;
     margin: 0;
@@ -14,7 +14,7 @@ canvas {
     height: 100%;
 }
 span {
-    font-family: "Roboto";
+    font-family: "Lato";
     color: #E74C3C;
     bottom: 0px;
     position: absolute;
