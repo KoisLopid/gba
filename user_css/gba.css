@@ -21,6 +21,9 @@
       font-size: 36px;
       font-family: Quicksand, Lato, Geneva, sans-serif;
     }
+li {
+  font-family: Quicksand, Lato, Geneva;
+}
     /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
