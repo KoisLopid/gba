@@ -13,7 +13,7 @@ html {
     #grad1 {
   height: 200px;
   background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, red, blck); /* Standard syntax (must be last) */
+  background-image: linear-gradient(to right, red, black); /* Standard syntax (must be last) */
 }
     h1 {
       color: #000099;
@@ -27,6 +27,7 @@ html {
     }
 li {
   font-family: Quicksand, Lato, Geneva;
+  color: Red;
 }
     /* Style the top navigation bar */
 .topnav {
