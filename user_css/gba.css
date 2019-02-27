@@ -7,13 +7,13 @@
   text-align: middle;
 }
 html {
-  background-color: red;
-  background-image: linear-gradient(to right, red, black);
+  background-color: white;
+  background-image: linear-gradient(to right, white, black);
 }
     #grad1 {
   height: 200px;
-  background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, red, black); /* Standard syntax (must be last) */
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, white, black); /* Standard syntax (must be last) */
 }
     h1 {
       color: #000099;
@@ -27,7 +27,7 @@ html {
     }
 li {
   font-family: Quicksand, Lato, Geneva;
-  color: Red;
+  color: red;
 }
     /* Style the top navigation bar */
 .topnav {
