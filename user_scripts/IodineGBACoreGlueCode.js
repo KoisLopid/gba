@@ -61,7 +61,7 @@ var games = {
     "gunstar_super_heroes":"Gunstar Super Heroes",
     "hamtaro_heartbreak":"Hamtaro - Ham-Ham Heartbreak",
     "herbie":"Herbie Fully Loaded",
-    "ice_climbers":"Ice Climbers(Classic)
+    "ice_climbers":"Ice Climbers(Classic)",
     "kirbymirror":"Kirby & The Amazing Mirror",
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
     "mariokart":"Mario Kart: Super Circuit",
