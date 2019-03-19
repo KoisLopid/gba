@@ -52,6 +52,7 @@ var games = {
     "fzero_max":"F-Zero - Maximum Velocity",
     "gamewatch4":"Game & Watch Gallery 4",
     "goldensun":"Golden Sun",
+    "gt2":"GT Advance 2 - Rally Racing",
     "gtaa":"Grand Theft Auto Advance",
     "gunstar_super_heroes":"Gunstar Super Heroes",
     "hamtaro_heartbreak":"Hamtaro - Ham-Ham Heartbreak",
