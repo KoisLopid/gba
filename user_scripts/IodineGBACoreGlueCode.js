@@ -120,6 +120,7 @@ var games = {
     "tales_of_phantasia":"Tales of Phantasia",
     "tak2_staff_of_dreams":"Tak 2: The Staff of Dreams",
     "tetris_worlds":"Tetris Worlds",
+    "tekken":"Tekken Advance",
     "tmnt":"Teenage Mutant Ninja Turtles",
     "sims_bustin_out":"The Sims: Bustin' Out",
     "sims2":"The Sims 2",
