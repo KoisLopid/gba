@@ -92,6 +92,7 @@ var games = {
     "pac_man":"Pac-Man(Classic)",
     "pacman_world":"Pacman World",
     "pacman_world2":"Pacman World 2",
+    "pokemonclover":"Pokemon Clover Rom Hack"
     "pokemonflorasky":"Pokemon Flora Sky Rom Hack",
     "lightplatinum":"Pokemon Light Platinum Rom-hack",
     "pokemonemerald":"Pokemon Emerald",
