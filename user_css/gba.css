@@ -25,6 +25,11 @@ html {
       font-size: 36px;
       font-family: Quicksand, Lato, Geneva, sans-serif;
     }
+h3 {
+	color: #000099;
+	font-size: 24px;
+	font-family:Quicksand, Lato, Geneva, sans-serif;
+}
 li {
   font-family: Quicksand, Lato, Geneva;
   color: red;
