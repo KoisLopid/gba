@@ -8,7 +8,7 @@
 }
 html {
   background-color: white;
-  background-image: linear-gradient(to right, white, black);
+  background-image: url("../../images/ComplexNiceBadger-size_restricted.gif");
 }
     #grad1 {
   height: 200px;
