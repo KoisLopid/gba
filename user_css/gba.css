@@ -186,7 +186,7 @@ li {
   column-width: 100px;
 }
 ul {
-  height: 100px;
+  height: 10px;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
