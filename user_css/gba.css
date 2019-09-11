@@ -185,5 +185,10 @@ li {
   column-count: 3;
   column-width: 100px;
 }
-
+ul {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
     
