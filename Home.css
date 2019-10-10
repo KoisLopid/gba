@@ -64,13 +64,13 @@ body {
     height: 125vh;
     font-family: sans-serif;
     margin-top: 80px;
-    padding: 30px;
+    padding: 0px;
 }
 
 main {
     color: white;
   background-image: url('../../images/cave.gif');
-background-size: cover;
+background-size: auto;
 }
 header {
     background-color: white;
