@@ -60,10 +60,8 @@ header img {
     height: 80px;
     margin-left: 40px;
 }
-main {
+body {
     height: 125vh;
-    background-image: url('../../images/cave.gif');
-    background-size: cover;
     font-family: sans-serif;
     margin-top: 80px;
     padding: 30px;
@@ -71,8 +69,9 @@ main {
 
 main {
     color: white;
+  background-image: url('../../images/cave.gif');
+background-size: cover;
 }
-
 header {
     background-color: white;
     position: fixed;
