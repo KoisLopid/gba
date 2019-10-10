@@ -59,7 +59,7 @@ hero h1 {
 body {
     height: 125vh;
     background-image: url('../../images/cave.gif');
-    background-size: cover;
+    background-size: auto;
   margin-top: 80px;
    padding: 30px;
  
