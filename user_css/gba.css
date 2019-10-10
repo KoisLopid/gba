@@ -7,22 +7,24 @@
   text-align: middle;
 }
 html {
-  background-color: white;
+  /*background-color: white;
   /* The image used */
-  /*background-image: url("../../images/ComplexNiceBadger-size_restricted.gif");*/
-  background-image: linear-gradient(to left, white, black);
+  background-image: url("../../images/ComplexNiceBadger-size_restricted.gif");
+  /*background-image: linear-gradient(to left, white, black);
 
   /* Full height */
   height: 100%;
 
   /* Center and scale the image nicely */
+background-attachment: fixed;
   background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
     #grad1 {
   height: 200px;
-  background-color: white; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, white, black); /* Standard syntax (must be last) */
+  /*background-color: white; /* For browsers that do not support gradients */
+  /*background-image: linear-gradient(to right, white, black); /* Standard syntax (must be last) */
 }
     h1 {
       color: #000099;
