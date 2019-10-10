@@ -31,6 +31,9 @@ hero h1 {
     /* Border styles */
     border: 3px solid black;
   border-radius: 20px;
+  
+  /* Background styles */
+    background-color: #FF9100
 }
 .hero {
     /* Sizing */
