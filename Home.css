@@ -50,7 +50,7 @@ hero h1 {
     color: white; /* ADD THIS LINE */
     
     /* Background styles */
-    background-image: url(.../images/ComplexNiceBadger-size_restricted.gif);
+    background-image: url(../../images/ComplexNiceBadger-size_restricted.gif);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
