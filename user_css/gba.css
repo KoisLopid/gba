@@ -194,7 +194,7 @@ ul {
 }
 	.parallax {
   /* The image used */
-  background-image: url(".../images/star.gif");
+  background-image: url("../../images/star.gif");
 
   /* Set a specific height */
   min-height: 500px; 
