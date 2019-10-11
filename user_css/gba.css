@@ -27,23 +27,23 @@ background-attachment: fixed;
   /*background-image: linear-gradient(to right, white, black); /* Standard syntax (must be last) */
 }
     h1 {
-      color: #000099;
+      color: white;
       font-size: 48px;
       font-family: Quicksand, Lato, Geneva, sans-serif;
     }
     h2 {
-      color: #000099;
+      color: white;
       font-size: 36px;
       font-family: Quicksand, Lato, Geneva, sans-serif;
     }
 h3 {
-	color: #000099;
+	color: white;
 	font-size: 24px;
 	font-family:Quicksand, Lato, Geneva, sans-serif;
 }
 li {
   font-family: Quicksand, Lato, Geneva;
-  color: white;
+  color: red;
 }
     /* Style the top navigation bar */
 .topnav {
