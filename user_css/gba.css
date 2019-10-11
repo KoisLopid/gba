@@ -9,7 +9,7 @@
 html {
   /*background-color: white;
   /* The image used */
-  background-image: url("../../images/star.gif");
+  background-image: url("../../images/cave.gif");
   /*background-image: linear-gradient(to left, white, black);
 
   /* Full height */
@@ -194,7 +194,7 @@ ul {
 }
 	.parallax {
   /* The image used */
-  background-image: url("../../images/star.gif");
+  background-image: url("../../images/cave.gif");
 
   /* Set a specific height */
   min-height: 500px; 
