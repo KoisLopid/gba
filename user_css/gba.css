@@ -44,6 +44,7 @@ h3 {
 li {
   font-family: Quicksand, Lato, Geneva;
   color: red;
+  text-decoration: none;
 }
     /* Style the top navigation bar */
 .topnav {
