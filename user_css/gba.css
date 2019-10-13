@@ -43,8 +43,6 @@ h3 {
 }
 li {
   font-family: Quicksand, Lato, Geneva;
-  color: red;
-  text-decoration: none;
 }
     /* Style the top navigation bar */
 .topnav {
@@ -207,10 +205,10 @@ ul {
   background-size: cover;
 }
 /* unvisited link */
-a:link {
+li a:link {
   color: red;
 }
 /* mouse over link */
-a:hover {
+li a:hover {
   color: white;
 }
