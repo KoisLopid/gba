@@ -206,3 +206,11 @@ ul {
   background-repeat: no-repeat;
   background-size: cover;
 }
+/* unvisited link */
+a:link {
+  color: red;
+}
+/* mouse over link */
+a:hover {
+  color: white;
+}
