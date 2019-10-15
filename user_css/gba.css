@@ -44,6 +44,10 @@ h3 {
 li {
   font-family: Quicksand, Lato, Geneva;
 }
+li a {
+	color:red;
+	text-decoration: none;
+}
     /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
