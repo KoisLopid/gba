@@ -68,6 +68,7 @@ var games = {
     "marioparty":"Mario Party Advance",
     "mariopinball":"Mario Pinball Land",
     "mariotennis":"Mario Tennis Advance - The Power Tour",
+    "mariovsdk":"Mario Vs. Donkey Kong",
     "megamanbass":"Megaman & Bass",
     "megaman_battle1":"Megaman Battle Network 1",
     "megaman_battle2":"Megaman Battle Network 2",
