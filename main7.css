@@ -8,6 +8,7 @@ padding: 0;
 .s1 {
 /*font settings*/
 font-family: titillium web, arial;
+  align-items: center;
 text-align: center;
 /*background settings*/
 background-image: linear-gradient(230deg, #d35400, #9b59b6);
@@ -22,3 +23,22 @@ font-size: 70px;
 /*font settings*/
 font-size: 50px
 }
+.s1 button{
+  background-color:#ecf0f1;
+	border-radius:9px;
+	display:inline-block;
+	cursor:pointer;
+	color:#2c3e50;
+	font-size:20px;
+	padding:10px 24px;
+	text-decoration:none;
+}
+.s1 button:hover {
+	background-color:#1e3799;
+  color:#ced6e0;
+}
+.s1 button:active {
+	position:relative;
+	top:1px;
+}
+  
