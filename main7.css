@@ -14,6 +14,11 @@ text-align: center;
 background-image: linear-gradient(230deg, #d35400, #9b59b6);
 background-size: cover;
 background-position: center;
+/*html settings*/
+width: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
 }
 .s1 h1{
 /*font settings*/
