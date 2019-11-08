@@ -39,7 +39,7 @@ padding:10px 24px;
 text-decoration:none;
 }
 .s1 button:hover {
-	animation: buttonchange 2s;
+	animation: buttonchange 2s, buttonchange2 2s;
 }
 .s1 button:active {
 	position:relative;
@@ -48,5 +48,9 @@ text-decoration:none;
 @keyframes buttonchange {
   from {background-image: linear-gradient(120deg, #18dcff, #32ff7e);}
   to {background-image: linear-gradient(220deg, #4b4b4b, #808e9b);}
+}
+@keyframes buttonchange {
+  from {color: #000;}
+  to {color: #ecf0f1}
 }
   
