@@ -11,7 +11,7 @@ font-family: titillium web, arial;
   align-items: center;
 text-align: center;
 /*background settings*/
-background-image: linear-gradient(230deg, #d35400, #9b59b6);
+background-image: linear-gradient(230deg, #ff3838, #9b59b6);
 background-size: cover;
 background-position: center;
 /*html settings*/
@@ -29,17 +29,17 @@ font-size: 70px;
 font-size: 50px
 }
 .s1 button{
-  background-color:#ecf0f1;
-	border-radius:9px;
-	display:inline-block;
-	cursor:pointer;
-	color:#2c3e50;
-	font-size:20px;
-	padding:10px 24px;
-	text-decoration:none;
+  background-image: linear-gradient(120deg, #18dcff, #32ff7e);
+border-radius:9px;
+display:inline-block;
+cursor:pointer;
+color: #000;
+font-size:20px;
+padding:10px 24px;
+text-decoration:none;
 }
 .s1 button:hover {
-	background-color:#1e3799;
+	background-image: linear-gradient(220deg, #4b4b4b, #808e9b);
   color:#ced6e0;
 }
 .s1 button:active {
