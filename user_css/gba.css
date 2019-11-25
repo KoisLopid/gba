@@ -46,8 +46,14 @@ li {
 	color:white;
 }
 li a {
-	color:#fc1303;
 	text-decoration: none;
+        transition: font-size: 0.3s, color: 0.3s;
+	color: red;
+}
+li a:hover {
+	transition: font-size: 0.3s, color: 0.3s;
+	color: white;
+	font-size: 24px;
 }
     /* Style the top navigation bar */
 .topnav {
@@ -208,12 +214,4 @@ ul {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-/* unvisited link */
-li a:link {
-  color: red;
-}
-/* mouse over link */
-li a:hover {
-  color: white;
 }
