@@ -47,13 +47,13 @@ li {
 }
 li a {
 	text-decoration: none;
-        transition: font-size: 0.3s;
-	transition: color: 0.3s;
+        transition: font-size 0.3s;
+	transition: color 0.3s;
 	color: red;
 }
 li a:hover {
-	transition: font-size: 0.3s;
-	transition: color: 0.3s;
+	transition: font-size 0.3s;
+	transition: color 0.3s;
 	color: white;
 	font-size: 24px;
 }
