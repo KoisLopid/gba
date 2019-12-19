@@ -107,6 +107,7 @@ var games = {
     "gba_video_pokemon_2":"Pokemon Video Pak 2",
     "gba_video_pokemon_3":"Pokemon Video Pak 3",
     "gba_video_pokemon_4":"Pokemon Video Pak 4",
+    "punchking":"Punch King - Arcade Boxing",
     "puyo-pop":"Puyo Pop",
     "simpsons":"The Simpsons: Road Rage",
     "sonic_advance":"Sonic Advance",
